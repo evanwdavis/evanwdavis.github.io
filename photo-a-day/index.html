@@ -1,0 +1,20 @@
+---
+layout: default
+title: Photo-a-Day
+permalink: /photo-a-day/
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Daily Photos</h1>
+
+  <ul class="post-list">
+      {% for photo in site.daily-photos reversed%}
+       <li>
+        <h2>{{ photo.title }}</h2>
+        <p>{{ photo.date | date: "%B %-d" }}</p>
+        <a href="{{ photo.full-path }}"><img src="{{ photo.thumbnail-path }}" alt="{{ photo.title }}"/></a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
