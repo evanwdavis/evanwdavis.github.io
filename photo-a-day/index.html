@@ -11,8 +11,7 @@ permalink: /photo-a-day/
   <ul class="post-list">
       {% for photo in site.daily-photos reversed%}
        <li>
-        <h2>{{ photo.title }}</h2>
-        <p>{{ photo.date | date: "%B %-d" }}</p>
+        <h2>{{ photo.title }} - {{ photo.date | date: "%B %-d" }}</h2>
         <a href="{{ photo.full-path }}"><img src="{{ photo.thumbnail-path }}" alt="{{ photo.title }}"/></a>
       </li>
     {% endfor %}
