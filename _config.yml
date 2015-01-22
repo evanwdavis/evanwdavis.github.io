@@ -4,7 +4,7 @@ email: evan.wingfield@me.com
 description: > # this means to ignore newlines until "baseurl:"
   Photos, travel, programming, and maybe a stray thought or two. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://evanwdavis.github.io" # the base hostname & protocol for your site
+url: "http://evandavis.me" # the base hostname & protocol for your site
 twitter_username: wahoo
 github_username:  evanwdavis
 
