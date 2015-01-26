@@ -9,7 +9,7 @@ twitter_username: wahoo
 github_username:  evanwdavis
 
 collections:
-  - daily-photos:
+  daily-photos:
   	output: true
 
 # Build settings
