@@ -9,11 +9,13 @@ permalink: /photo-a-day/
   <h1 class="page-heading">Daily Photos</h1>
 
   <ul class="post-list">
-      {% for photo in site.daily-photos reversed%}
-       <li>
-        <h2>{{ photo.title }} - {{ photo.date | date: "%B %-d" }}</h2>
+    {% for photo in site.daily-photos reversed%}
+  {% capture currentyear %}{{photo.date | date: "%B"}}{% endcapture %}
+  {% if currentyear != year %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <h1>{{ currentyear }}</h1>
+    {% capture year %}{{currentyear}}{% endcapture %} 
+  {% endif %}
         <a href="{{ photo.full-path }}"><img src="{{ photo.thumbnail-path }}" alt="{{ photo.title }}"/></a>
-      </li>
-    {% endfor %}
-  </ul>
+{% endfor %}
 </div>

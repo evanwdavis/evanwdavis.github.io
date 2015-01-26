@@ -10,6 +10,7 @@ github_username:  evanwdavis
 
 collections:
   - daily-photos
+  output: true
 
 # Build settings
 markdown: kramdown
