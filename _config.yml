@@ -9,8 +9,8 @@ twitter_username: wahoo
 github_username:  evanwdavis
 
 collections:
-  - daily-photos
-  output: true
+  - daily-photos:
+  	output: true
 
 # Build settings
 markdown: kramdown
