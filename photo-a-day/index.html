@@ -10,12 +10,15 @@ permalink: /photo-a-day/
 
   <ul class="post-list">
     {% for photo in site.daily-photos reversed%}
-  {% capture currentyear %}{{photo.date | date: "%B"}}{% endcapture %}
-  {% if currentyear != year %}
-    {% unless forloop.first %}</ul>{% endunless %}
-    <h1>{{ currentyear }}</h1>
-    {% capture year %}{{currentyear}}{% endcapture %} 
-  {% endif %}
-        <a href="{{ photo.full-path }}"><img src="{{ photo.thumbnail-path }}" alt="{{ photo.title }}"/></a>
-{% endfor %}
+      {% capture currentmonth %}{{photo.date | date: "%B"}}{% endcapture %}
+      {% if currentmonth != month %}
+        {% unless forloop.first %}
+          </ul>
+          <ul class="post-list">
+        {% endunless %}
+          <h1>{{ currentmonth }}</h1>
+        {% capture month %}{{currentmonth}}{% endcapture %} 
+      {% endif %}
+      <a href="{{ photo.full-path }}"><img src="{{ photo.thumbnail-path }}" alt="{{ photo.title }}"/></a>
+    {% endfor %}
 </div>
