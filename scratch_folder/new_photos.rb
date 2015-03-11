@@ -3,7 +3,7 @@ require "date"
 ARGV.each do |day_of_year|
 	date_string = Date.strptime("2015-#{day_of_year}", "%Y-%j").to_s
 	out_file = File.new("a#{day_of_year}.md", "w")
-	out_file.puts "--- \n"
+	out_file.puts "---\n"
 	out_file.puts "title:  \"#{day_of_year}/365\"\n"
 	out_file.puts "date:   #{date_string}\n"
 	out_file.puts "thumbnail-path: \"thumbnails/thumbnail-#{day_of_year}.jpg\""
