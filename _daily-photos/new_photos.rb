@@ -12,7 +12,7 @@ i = 1
 while i <= new_file_count
 	day_of_year = file_count + i
 	date_string = Date.strptime("2015-#{day_of_year}", "%Y-%j").to_s
-	out_file = File.new("a#{day_of_year}.md", "w")
+	out_file = File.new("b#{day_of_year}.md", "w")
 	out_file.puts "---\n"
 	out_file.puts "title:  \"#{day_of_year}/365\"\n"
 	out_file.puts "date:   #{date_string}\n"
