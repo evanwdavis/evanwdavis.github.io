@@ -1,0 +1,11 @@
+Hey there 2016 what's up. 
+
+Skiing is awesome
+
+but seriously, let's do something here. where am I right now? what am I focusing on? 
+
+Sustainability? in job, health, relationships, dog, finances? I think I'm coming into the year from a good place, so time to build on it. I'm settled in SF, new job working on somethign I'm passionate about, still making good money, trying not to spend too much. Don't want to brag but i'm ok. 2015 had some low points in my head so it's nice to be optimistic again. 
+
+here we go yall 
+
+
