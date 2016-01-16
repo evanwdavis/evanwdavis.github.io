@@ -8,4 +8,7 @@ Sustainability? in job, health, relationships, dog, finances? I think I'm coming
 
 here we go yall 
 
+but yeah, good job, making an app, finally feeling halfway motivated to actually do shit now... not feeling like you're gonna get fired for not doing anything is always good. 
 
+skiing was good too! 
+`
