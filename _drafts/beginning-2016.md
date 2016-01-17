@@ -11,4 +11,8 @@ here we go yall
 but yeah, good job, making an app, finally feeling halfway motivated to actually do shit now... not feeling like you're gonna get fired for not doing anything is always good. 
 
 skiing was good too! 
+
+
+taking a lesson was awesome, need to soak it in, probably do another one next time! level up! 
+
 `
