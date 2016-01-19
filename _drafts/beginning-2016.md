@@ -16,4 +16,10 @@ skiing was good too!
 taking a lesson was awesome, need to soak it in, probably do another one next time! level up! 
 
 lesson paid off, lots more confident! even accidentally did a black and finished the day off with a tough double blue. boom
+
+
+ok last day of this vacation github nonsense :) tomorrow back to the real thing! 
+
+
+
 `
