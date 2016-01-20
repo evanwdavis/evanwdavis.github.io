@@ -20,6 +20,6 @@ lesson paid off, lots more confident! even accidentally did a black and finished
 
 ok last day of this vacation github nonsense :) tomorrow back to the real thing! 
 
-
+weird day - work, basketball, tanner called from hospital *thankfully everything seems ok though
 
 `
