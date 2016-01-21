@@ -22,4 +22,6 @@ ok last day of this vacation github nonsense :) tomorrow back to the real thing!
 
 weird day - work, basketball, tanner called from hospital *thankfully everything seems ok though
 
+alright another little mini push. nothing much happened today, was lazier than I wanted to be after work... booooooooooooooooooo
+
 `
