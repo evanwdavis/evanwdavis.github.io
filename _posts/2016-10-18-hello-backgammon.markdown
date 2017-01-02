@@ -2,12 +2,12 @@
 layout: post
 title:  "Building Backgammon #1"
 date:   2016-10-18 18:00:00
-categories: iOS programming apps games backgammon
+categories: backgammon
 ---
 
-About 12 years ago I decided to take my first programming class in high school. The reason? My friends and I wanted to make games for our TI-83 calculators. We were really cool. I took that programming class, plus a few more in college on my way to earning a Computer Science degree. I've spent over five years building software professionally. Have I made any games? Not yet. ¯\_(ツ)_/¯
+About 12 years ago I decided to take my first programming class in high school. The reason? My friends and I wanted to make games for our TI-83 calculators. We were really cool. I took that programming class, plus a few more in college on my way to earning a Computer Science degree. I've spent over five years building software professionally. Have I made any games? Not yet. 
 
-Let's change that. Apple's public release of Apps for iMessage happened to coincide with me picking up and learning Backgammon (like making a game, something I'd put off for way too long). I figured it would be a great opportunity to keep in touch with friends across the country through playing the occasional game. Unfortunately, there are still no Backgammon games to be played through iMessage that I've found. 
+I'm going to change that though. Apple's public release of Apps for iMessage happened to coincide with me picking up and learning Backgammon (like making a game, something I'd put off for way too long). I figured it would be a great opportunity to keep in touch with friends across the country through playing the occasional game. Unfortunately, there are still no Backgammon games to be played through iMessage that I've found. 
 
 So that's what I'll be making. I'm writing about it here to keep me somewhat accountable, so if you see this I encourage to you follow along and help keep me honest on [twitter](http://twitter.com/wahoo). 
 

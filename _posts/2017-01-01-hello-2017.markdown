@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Hello 2017"
+date:   2017-01-01 23:40:00
+categories: goals, resolutions
+---
+
+Plenty has already been written about the shitstorm of 2016, so let's just right into it - 2017 Goals and Resolutions. I'm coming off a pretty unstructured 2016. Of course I wanted to write better code, lose weight, play piano, whatever, but I didn't set up anything clearly defined for myself. I think it was a bit of a backlash from 2015's photo a day project (which I completed, and you can see here  on this site). I'm absolutely glad I did the project, but every day for a year is quite the commitment, and I was happy to be rid of it. 
+
+This year is different. Although I started 2016 with nothing set in stone, I managed to finish it in a pretty good place. I've been upping my running mileage consistently since October. I started working my way through the Advanced Swift book and experimenting more on the side. I started and finished several books towards the end of the year. I got engaged and have been working on a number of things related to planning the ensuing wedding. 
+
+Heading into 2017, I want to hold myself accountable to these fledgling habits. Without further ado, here's the list: 
+
+- Get Married
+- Run 1000 miles + 1 marathon
+- Read 24 books
+- Bike to work 144 days 
+
+Additionally, I'll be doing smaller monthly challenges to keep myself on track for the above, and to try and forge new habits. Partly to see if I can, and partly to try and bring some attention to other things. Here's January
+
+- No Alcohol
+- No TV shows
+- git commit every day
+- finish 2 books
+- run 75 miles
+- bike to work 12 days
+- weekly checkin journal entries
+
+The No Alcohol and no TV goals are shared with my fiancee, like I said, mostly to see if we can. I love TV and I love wine, so I have no interest in keeping these up long term. Ideally I'll carve out some extra time day-to-day that will help me with the yearly goals. Planning a wedding, running 20+ miles per week, and reading 24 books all take some serious time, so cutting out TV and drinking should help with that. 
+
+git commits can be anything I'm working on, including this blog since that's where it's hosted, but mostly that refers to my day job and side projects. Backgammon's been a bit neglected, and at work I can sometimes spin my wheels on bigger projects before getting diving in, and this'll be a good way to get in at least a little bit of tangible progress every day. 
+
+As for the rest, that's just to get on pace for my yearly goals. 
+
+There's a good chance I'm going a bit overboard for January, but even if it's awful, It'll only be a month. Let's see how it goes. 
+
+
+
+
