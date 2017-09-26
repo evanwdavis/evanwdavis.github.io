@@ -9,7 +9,7 @@ permalink: /photo-a-day-2015/
   <h1 class="page-heading">Daily Photos</h1>
 
   <ul class="post-list">
-    {% for photo in site.daily-photos reversed%}
+    {% for photo in site.daily-photos %}
       {% capture currentmonth %}{{photo.date | date: "%B"}}{% endcapture %}
       {% if currentmonth != month %}
         {% unless forloop.first %}
