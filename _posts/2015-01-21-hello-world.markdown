@@ -2,7 +2,7 @@
 layout: post
 title:  "Howdy!"
 date:   2015-01-21 23:00:00
-categories: hello world introduction words
+categories: introduction
 ---
 Hey everyone. Three weeks is probably too long to have a website and still have a template blog post, so here we go. 
 

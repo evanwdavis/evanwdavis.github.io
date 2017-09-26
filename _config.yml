@@ -12,5 +12,7 @@ exclude: [_daily-photos/new_photos.rb]
 collections:
   - daily-photos
 
+permalink: date
+
 # Build settings
 markdown: kramdown
