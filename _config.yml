@@ -14,5 +14,8 @@ collections:
 
 permalink: date
 
+# Google Analytics
+google_analytics: UA-107130571-1
+
 # Build settings
 markdown: kramdown
