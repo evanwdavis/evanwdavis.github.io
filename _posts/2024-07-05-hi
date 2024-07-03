@@ -1,1 +1,9 @@
-Hello this is a test. 
+---
+layout: post
+title:  "hey there"
+date:   2024-07-03 16:00:00
+categories: life
+permalink: /hithere/
+---
+
+Just testing putting up a post here; nothing crazy 
